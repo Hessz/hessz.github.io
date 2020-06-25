@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/squadify/static/js/main.69053a68.chunk.js",
+    "main.js.map": "/squadify/static/js/main.69053a68.chunk.js.map",
+    "runtime-main.js": "/squadify/static/js/runtime-main.594d4c62.js",
+    "runtime-main.js.map": "/squadify/static/js/runtime-main.594d4c62.js.map",
+    "static/js/2.66993b6b.chunk.js": "/squadify/static/js/2.66993b6b.chunk.js",
+    "static/js/2.66993b6b.chunk.js.map": "/squadify/static/js/2.66993b6b.chunk.js.map",
+    "index.html": "/squadify/index.html",
+    "precache-manifest.76d4bedb79dc9f81f16b71e680bf61e8.js": "/squadify/precache-manifest.76d4bedb79dc9f81f16b71e680bf61e8.js",
+    "service-worker.js": "/squadify/service-worker.js",
+    "static/js/2.66993b6b.chunk.js.LICENSE.txt": "/squadify/static/js/2.66993b6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594d4c62.js",
+    "static/js/2.66993b6b.chunk.js",
+    "static/js/main.69053a68.chunk.js"
+  ]
+}
